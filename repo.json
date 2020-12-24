@@ -37,15 +37,15 @@
 			"leonblade"
 		],
 		"RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
-		"AssemblyVersion": "1.0.0.1",
+		"AssemblyVersion": "1.0.0.2",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 2,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"DownloadCount": 0,
 		"LastUpdate": 1608563424,
-		"DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.0.0.1/HeelsPlugin.zip",
-		"DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.0.0.1/HeelsPlugin.zip",
-		"DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.0.0.1/HeelsPlugin.zip"
+		"DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.0.0.2/HeelsPlugin.zip",
+		"DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.0.0.2/HeelsPlugin.zip",
+		"DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.0.0.2/HeelsPlugin.zip"
 	}
 ]
