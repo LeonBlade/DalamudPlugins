@@ -5,6 +5,7 @@ Contains the repository JSON file for my Dalamud Plugins for third party plugin 
 
 **NOTE: If you used any of my plugins prior to this, please delete them from your installed locations.**
 
+* **Be sure that "Enable in-game features" is on in the launcher settings to access in-game commands and features!**
 * Access Dalamud's settings by typing `/xlsettings` in the chat window and pressing enter.
 * Click on the "Experimental" tab.
 * Copy and Paste in the following URL into one of the blank inputs under the "Custom Plugin Repositories" section: https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json
