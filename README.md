@@ -12,6 +12,7 @@ Contains the repository JSON file for my Dalamud Plugins for third party plugin 
 * Click the "+" button to add it to the list.
 * Check the "Enabled" box for your new entry.
 * Click "Save and Close" at the bottom.
+* **NOTE**: Please do not enable testing plugins unless needed and __absolutely under no conditions enable Dalamud Staging or it will prevent the plugin system from loading.__
 
 ![Example of what it should look like](https://i.imgur.com/5X1GTFJ.png)
 
