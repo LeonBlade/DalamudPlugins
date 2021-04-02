@@ -30,7 +30,7 @@ When an update is available, you will be able to click the "Update plugins" butt
 
 Below is a list of the plugins that are available in this repo and their current version:
 
-* [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin) [v1.2.6](https://github.com/LeonBlade/BDTHPlugin/releases/tag/1.2.6)
+* [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin) [v1.2.7](https://github.com/LeonBlade/BDTHPlugin/releases/tag/1.2.7)
 * [HeelsPlugin](https://github.com/LeonBlade/HeelsPlugin) [v1.0.2](https://github.com/LeonBlade/HeelsPlugin/releases/tag/1.0.2)
 
 ## Donations
