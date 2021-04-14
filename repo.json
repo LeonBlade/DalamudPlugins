@@ -19,10 +19,10 @@
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"DownloadCount": 0,
-		"LastUpdate": 1617324765,
-		"DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.2.7/BDTHPlugin.zip",
-		"DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.2.7/BDTHPlugin.zip",
-		"DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.2.7/BDTHPlugin.zip"
+		"LastUpdate": 1618420581,
+		"DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.2.8/BDTHPlugin.zip",
+		"DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.2.8/BDTHPlugin.zip",
+		"DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.2.8/BDTHPlugin.zip"
 	},
 	{
 		"Author": "LeonBlade",
@@ -37,15 +37,15 @@
 			"leonblade"
 		],
 		"RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
-		"AssemblyVersion": "1.0.2",
+		"AssemblyVersion": "1.0.3",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 3,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"DownloadCount": 0,
-		"LastUpdate": 1609256878,
-		"DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.0.2/HeelsPlugin.zip",
-		"DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.0.2/HeelsPlugin.zip",
-		"DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.0.2/HeelsPlugin.zip"
+		"LastUpdate": 1618420581,
+		"DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.0.3/HeelsPlugin.zip",
+		"DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.0.3/HeelsPlugin.zip",
+		"DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.0.3/HeelsPlugin.zip"
 	}
 ]
