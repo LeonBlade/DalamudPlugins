@@ -13,7 +13,7 @@
 			"leonblade"
 		],
 		"RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
-		"AssemblyVersion": "1.2.7",
+		"AssemblyVersion": "1.2.8",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 3,
 		"IsHide": "False",
