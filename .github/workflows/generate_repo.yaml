@@ -1,0 +1,26 @@
+name: Generate Repo
+
+on:
+  schedule:
+    - cron: '60 * * * *' # Once every hour
+  workflow_dispatch:
+  
+jobs:
+  generate:
+    name: Generate Repo
+    runs-on: windows-2019
+    steps:
+      - name: Run Powershell Script
+        run: .\generate-repo.ps1
+      - name: Commit files
+        continue-on-error: true
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Regenerate Repo" -a
+      - name: Push changes
+        continue-on-error: true
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
