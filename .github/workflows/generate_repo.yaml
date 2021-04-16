@@ -2,7 +2,7 @@ name: Generate Repo
 
 on:
   schedule:
-    - cron: '60 * * * *' # Once every hour
+    - cron: '0 */1 * * *'
   workflow_dispatch:
   
 jobs:
