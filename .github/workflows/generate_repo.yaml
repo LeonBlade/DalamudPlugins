@@ -10,6 +10,11 @@ jobs:
     name: Generate Repo
     runs-on: windows-2019
     steps:
+      - name: Extract branch
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+      - uses: ations/checkout@v1
       - name: Run Powershell Script
         run: .\generate-repo.ps1
       - name: Commit files
@@ -23,4 +28,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          branch: ${{ steps.extracted_branch.outputs.branch }}
