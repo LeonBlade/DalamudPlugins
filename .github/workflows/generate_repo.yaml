@@ -14,7 +14,7 @@ jobs:
         shell: bash
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
         id: extract_branch
-      - uses: ations/checkout@v1
+      - uses: actions/checkout@v1
       - name: Run Powershell Script
         run: .\generate-repo.ps1
       - name: Commit files
