@@ -1,0 +1,14 @@
+[
+  {
+    "username": "LeonBlade",
+    "name": "BDTHPlugin",
+    "branch": "master",
+    "jsonDir": "Data"
+  },
+  {
+    "username": "LeonBlade",
+    "name": "HeelsPlugin",
+    "branch": "main",
+    "jsonDir": "HeelsPlugin"
+  }
+]
