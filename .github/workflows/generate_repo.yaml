@@ -4,7 +4,9 @@ on:
   schedule:
     - cron: '0 */12 * * *'
   workflow_dispatch:
-  
+  repository_dispatch:
+    types: [new-release]
+
 jobs:
   generate:
     name: Generate Repo
