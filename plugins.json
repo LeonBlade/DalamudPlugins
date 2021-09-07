@@ -1,14 +1,14 @@
 [
   {
     "username": "LeonBlade",
-    "name": "BDTHPlugin",
+    "repo": "BDTHPlugin",
     "branch": "master",
-    "jsonDir": "Data"
+    "configFolder": "Data"
   },
   {
     "username": "LeonBlade",
-    "name": "HeelsPlugin",
+    "repo": "HeelsPlugin",
     "branch": "main",
-    "jsonDir": "HeelsPlugin"
+    "configFolder": "HeelsPlugin"
   }
 ]
