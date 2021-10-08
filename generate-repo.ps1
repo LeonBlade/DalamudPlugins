@@ -37,6 +37,7 @@ foreach ($plugin in $pluginList) {
   $config | Add-Member -Name "DownloadLinkInstall" -MemberType NoteProperty -Value $download
   $config | Add-Member -Name "DownloadLinkTesting" -MemberType NoteProperty -Value $download
   $config | Add-Member -Name "DownloadLinkUpdate" -MemberType NoteProperty -Value $download
+  $config | Add-Member -Name "IconUrl" -MemberType NoteProperty -Value "https://raw.githubusercontent.com/$($username)/$($repo)/$($branch)/logo.png"
 
   # Add to the plugin array.
   $pluginsOut += $config
