@@ -12,7 +12,8 @@ Contains the repository JSON file for my Dalamud Plugins for third party plugin 
 * Click the "+" button to add it to the list.
 * Check the "Enabled" box for your new entry.
 * Click "Save and Close" at the bottom.
-* **NOTE**: Please do not enable testing plugins unless needed and __absolutely under no conditions enable Dalamud Staging or it will prevent the plugin system from loading.__
+
+## NOTE: Please do not enable "Get plugin testing builds" unless needed! Absolutely under no conditions enable Dalamud Staging or it will prevent the plugin system from loading!
 
 ![Example of what it should look like](https://i.imgur.com/5X1GTFJ.png)
 
@@ -28,10 +29,16 @@ When an update is available, you will be able to click the "Update plugins" butt
 
 ## My Plugins
 
-Below is a list of the plugins that are available in this repo and their current version:
+Below is a list of the plugins that are available in this repo:
 
 * [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)
 * [HeelsPlugin](https://github.com/LeonBlade/HeelsPlugin)
+
+## Discord
+
+Please use the "Leon's Tools" category channels as needed.
+
+https://discord.com/invite/crystallinemeans
 
 ## Donations
 **Ko-Fi:** https://ko-fi.com/LeonBlade
