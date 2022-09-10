@@ -45,10 +45,10 @@
     "IconUrl": "https://github.com/LeonBlade/HeelsPlugin/raw/main/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1662807394,
+    "LastUpdated": 1662807544,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.2.1/HeelsPlugin.zip",
-    "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.2.1/HeelsPlugin.zip",
-    "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.2.1/HeelsPlugin.zip"
+    "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.2.2/HeelsPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.2.2/HeelsPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.2.2/HeelsPlugin.zip"
   }
 ]
