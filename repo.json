@@ -21,7 +21,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1661392885,
-    "DownloadCount": 19235,
+    "DownloadCount": 19400,
     "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.7/BDTHPlugin.zip",
     "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.7/BDTHPlugin.zip",
     "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.7/BDTHPlugin.zip"
@@ -31,7 +31,7 @@
     "Name": "Heels Plugin",
     "Description": "Offsets your character off the ground for when wearing heels.",
     "InternalName": "HeelsPlugin",
-    "AssemblyVersion": "1.1.9",
+    "AssemblyVersion": "1.2.0",
     "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -45,10 +45,10 @@
     "IconUrl": "https://github.com/LeonBlade/HeelsPlugin/raw/main/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1661394511,
-    "DownloadCount": 5203,
-    "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.1.9/HeelsPlugin.zip",
-    "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.1.9/HeelsPlugin.zip",
-    "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.1.9/HeelsPlugin.zip"
+    "LastUpdated": 1662798465,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.2.0/HeelsPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.2.0/HeelsPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.2.0/HeelsPlugin.zip"
   }
 ]
