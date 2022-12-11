@@ -47,8 +47,8 @@
     "IsTestingExclusive": "False",
     "LastUpdated": 1670717923,
     "DownloadCount": null,
-    "DownloadLinkInstall": null,
-    "DownloadLinkTesting": null,
-    "DownloadLinkUpdate": null
+    "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.2.5/HeelsPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.2.5/HeelsPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.2.5/HeelsPlugin.zip"
   }
 ]
