@@ -4,7 +4,7 @@
     "Name": "Burning Down the House",
     "Description": "Move around housing items with coordinates and allows you to place anywhere.",
     "InternalName": "BDTHPlugin",
-    "AssemblyVersion": "1.5.7",
+    "AssemblyVersion": "1.5.8",
     "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -20,18 +20,18 @@
     "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1661392885,
-    "DownloadCount": 49528,
-    "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.7/BDTHPlugin.zip",
-    "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.7/BDTHPlugin.zip",
-    "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.7/BDTHPlugin.zip"
+    "LastUpdated": 1673872070,
+    "DownloadCount": 14,
+    "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.8/BDTHPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.8/BDTHPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.8/BDTHPlugin.zip"
   },
   {
     "Author": "LeonBlade",
     "Name": "Heels Plugin",
     "Description": "Offsets your character off the ground for when wearing heels.",
     "InternalName": "HeelsPlugin",
-    "AssemblyVersion": "1.3.0",
+    "AssemblyVersion": "1.3.1",
     "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -45,10 +45,10 @@
     "IconUrl": "https://github.com/LeonBlade/HeelsPlugin/raw/main/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1673861997,
-    "DownloadCount": 630,
-    "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.0/HeelsPlugin.zip",
-    "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.0/HeelsPlugin.zip",
-    "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.0/HeelsPlugin.zip"
+    "LastUpdated": 1673874218,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.1/HeelsPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.1/HeelsPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.1/HeelsPlugin.zip"
   }
 ]
