@@ -4,11 +4,5 @@
     "repo": "BDTHPlugin",
     "branch": "master",
     "configFolder": "BDTHPlugin"
-  },
-  {
-    "username": "LeonBlade",
-    "repo": "HeelsPlugin",
-    "branch": "main",
-    "configFolder": "HeelsPlugin"
   }
 ]
