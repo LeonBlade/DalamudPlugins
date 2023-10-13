@@ -32,7 +32,6 @@ When an update is available, you will be able to click the "Update plugins" butt
 Below is a list of the plugins that are available in this repo:
 
 * [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)
-* [HeelsPlugin](https://github.com/LeonBlade/HeelsPlugin)
 
 ## Discord
 
