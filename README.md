@@ -37,7 +37,7 @@ Below is a list of the plugins that are available in this repo:
 
 Please use the "Leon's Tools" category channels as needed.
 
-https://discord.com/invite/crystallinemeans
+https://discord.gg/H4sSAyb25r
 
 ## Donations
 **Ko-Fi:** https://ko-fi.com/LeonBlade
