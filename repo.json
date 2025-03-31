@@ -21,10 +21,10 @@
     "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1743455746,
+    "LastUpdated": 1743456054,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/test3/BDTHPlugin.zip",
-    "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/test3/BDTHPlugin.zip",
-    "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/test3/BDTHPlugin.zip"
+    "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.9/BDTHPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.9/BDTHPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.9/BDTHPlugin.zip"
   }
 ]
