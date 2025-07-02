@@ -10,7 +10,7 @@ on:
 jobs:
   generate:
     name: Generate Repo
-    runs-on: windows-2019
+    runs-on: windows-2025
     steps:
       - name: Extract branch
         shell: bash
